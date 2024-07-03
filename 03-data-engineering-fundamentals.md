@@ -50,7 +50,7 @@ Data to power ML systems usually comes from different sources.  Sources can be c
 
 
 ## JSON
-- Extremely popular. So popular, that the pain that it causes is felt everywhere.
+<span style="color: red;">- Extremely popular. So popular, that the pain that it causes is felt everywhere.
 - Good readability and very flexible.
 - When you commit the data you implicitly commit to a schema that the reader will need to assume. 
 - Retrospectively changing the schema of the data that was already stored is very painful.
